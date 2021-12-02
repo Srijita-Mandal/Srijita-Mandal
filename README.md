@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijita Mandal</h1>
-<h3 align="center">A passionate full-stack developer and competitive programmer from India</h3>
+<h3 align="center">A passionate full-stack developer and programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijita-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="srijita-mandal" /> </p>
 
